@@ -11,6 +11,7 @@ public class ParameterTest {
 	@Test
 	public void jekindParameter()
 	{
+		
 		WebDriver driver=null;
 		String browser=System.getProperty("browser");
 		String url=System.getProperty("url");
